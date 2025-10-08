@@ -11,13 +11,12 @@ MEG24-887/M8_NeuralNetworks2/M08-L1-sync code/faces
 *.pyc
 *.yaml
 *__pycache__
-/MEG24-888/HW3/MNIST/*
-/MEG24-888/HW2/data
-/MEG24-888/HW2/week2-data
-/MEG24-888/HW4/CIFAR10
 *xlsx
 *.npy
 *.pt
 *.zip
 MEG24-888/HW12/data/Train_Burgers_v1e-2_N1792_T1_tr50_X1_xr128.hdf5
 MEG24-888/HW14/lora.png
+/MEG24-888/MNIST
+*data
+/MEG24-888/CIFAR10
